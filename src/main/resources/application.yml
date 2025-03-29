@@ -4,3 +4,7 @@ server:
 spring:
   application:
     name: RedisPubSubDemo
+  data:
+    redis:
+      host: 172.25.25.97
+      port: 6379
