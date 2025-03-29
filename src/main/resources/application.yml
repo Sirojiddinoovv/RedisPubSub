@@ -6,5 +6,5 @@ spring:
     name: RedisPubSubDemo
   data:
     redis:
-      host: 172.25.25.97
+      host: localhost
       port: 6379
